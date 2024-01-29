@@ -10,6 +10,6 @@ app.get('/movies', async (req, res) => {
     res.send(await tmdb.getMovies(req.query?.search));// query contains search string which is the title.
 });
 // Start the server
-app.listen(3000, () => {
-    console.log('Server listening on port 3000');
+app.listen(5000, () => {
+    console.log('Server listening on port 5000');
 });
