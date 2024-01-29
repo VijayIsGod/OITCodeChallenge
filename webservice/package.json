@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Movies lookup application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VijayIsGod/OITCodeChallenge.git"
+  },
+  "author": "Vijay Satyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VijayIsGod/OITCodeChallenge/issues"
+  },
+  "homepage": "https://github.com/VijayIsGod/OITCodeChallenge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0"
+  }
+}
