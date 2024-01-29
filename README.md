@@ -1,9 +1,9 @@
 ## Running Backend
-    Please go to webservice directory and npm run install.
-    Running the backend by using node index.js
+    Please go to webservice directory and type this command: npm install.
+    Running the backend with this command: node index.js
 
 ## Running Frontend
-    Please go to webapp/nuxt-app directory and do npm run install
+    Please go to webapp/nuxt-app directory and type this command: npm install
     Run the front end with this command: npm run dev
 
 ## Usage
